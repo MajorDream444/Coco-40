@@ -8,6 +8,10 @@ This is a minimal Next.js **App Router** MVP that:
 - Includes optional **upload scripts** for Firestore and Supabase
 - Includes a **brand firewall** that fails builds if forbidden branding appears
 
+Project structure (scaffolded at repo root):
+- `src/` for application code and API routes
+- `scripts/` for brand firewall and upload utilities
+
 ## Quick start (local)
 
 1) Install dependencies
