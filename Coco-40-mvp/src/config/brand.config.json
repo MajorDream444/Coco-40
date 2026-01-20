@@ -1,0 +1,27 @@
+{
+  "brand": {
+    "publicName": "PlantBasedMan",
+    "voice": "calm_masculine_grounded",
+    "ethos": ["discipline", "healing", "simplicity", "self-responsibility"]
+  },
+  "program": {
+    "name": "Coco Water 40",
+    "shortName": "Coco40",
+    "series": "Coco Protocol",
+    "tagline": "Deep healing through simplicity and discipline"
+  },
+  "legal": {
+    "entityName": null,
+    "showEntityInUI": false
+  },
+  "copyRules": {
+    "defaultBranding": "PlantBasedMan / Coco Protocol",
+    "allowLegalEntityReference": false,
+    "requireExplicitOverrideForLegal": true
+  },
+  "ui": {
+    "showLogo": true,
+    "showFounderName": false,
+    "toneGuardrails": ["no_hype", "no_shame", "no_medical_claims"]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "file": "coco40_day_objects_v1.json",
+  "series": "Coco Water 40",
+  "module": "DailyJourney",
+  "defaults": {
+    "golden_rule": "When in doubt: hydrate, rest, simplify.",
+    "hydration_note": "Sip coconut water slowly. Don’t rush intake.",
+    "movement_note": "Walking over intensity.",
+    "safety_note": "If symptoms escalate or feel unsafe, stop and seek medical support."
+  },
+  "days": [
+    {
+      "day": 1,
+      "phase": "Activation",
+      "title": "Commitment",
+      "daily_message": "Today is not about comfort. It is about agreement. Stay calm.",
+      "journal_prompt": "Why am I choosing this now? What am I ready to let go of?",
+      "checklist_focus": ["hydration", "gentle_walk", "simplicity"],
+      "symptom_guidance": {
+        "cravings": "Hydrate slowly and breathe. Cravings pass when the nervous system feels safe.",
+        "headache": "Increase water intake and rest your eyes. Do not push."
+      }
+    }
+  ]
+}
